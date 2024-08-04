@@ -2,4 +2,4 @@
 
 Aplicação desenvolvida utilizando Streamlit, LLM e LangChain. 
 
-Aplicativo interativo com uso de LLMs para resolver um problema específico.
+Aplicativo interativo com usode LLMs para resolver um problema específico.
