@@ -1,3 +1,5 @@
 # .venv files
 .venv
 
+# IDE files
+.idea/
